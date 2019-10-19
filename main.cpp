@@ -2,6 +2,7 @@
 #include "strgback.h"
 #include "source7.19.h"
 #include "source8.2.h"
+#include "source8.3.h"
 
 using std::cout;
 using std::endl;
@@ -24,6 +25,6 @@ int sum_arr(const int *arr, int n) {
 }
 
 int main() {
-    main8_2();
+    main8_3();
     return 0;
 }
