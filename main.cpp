@@ -6,8 +6,9 @@
 #include "source8.4.h"
 #include "source8.5.h"
 #include "source8.6.h"
+#include "source8.7.h"
 
 int main() {
-    main8_6();
+    main8_7();
     return 0;
 }
