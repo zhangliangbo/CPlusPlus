@@ -3,6 +3,8 @@
 #include "source7.19.h"
 #include "source8.2.h"
 #include "source8.3.h"
+#include "source8.4.h"
+#include "source8.5.h"
 
 using std::cout;
 using std::endl;
@@ -25,6 +27,6 @@ int sum_arr(const int *arr, int n) {
 }
 
 int main() {
-    main8_3();
+    main8_5();
     return 0;
 }
