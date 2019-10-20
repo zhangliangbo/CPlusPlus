@@ -28,11 +28,7 @@ int main8_7() {
     cout << "Enter a string:";
     getline(cin, input);
 
-    cout << typeid(input).name() << endl;
-
     copy = input;
-
-    cout << typeid(copy).name() << endl;
 
     cout << "Your string as entered: " << input << endl;
     result = version1(input, "***");
